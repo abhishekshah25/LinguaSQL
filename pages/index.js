@@ -13,6 +13,7 @@ import Toggle from "../components/Toggle"
 import { Header } from "../components/Header/Header"
 
 export default function Home() {
+  
   const { resolvedTheme } = useTheme()
   const isThemeDark = resolvedTheme === "dark"
   const [mounted, setMounted] = useState(false)
