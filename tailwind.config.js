@@ -1,4 +1,4 @@
-/** @type {import('tailwindcss').Config} */
+/** @type */
 module.exports = {
   future: {
     hoverOnlyWhenSupported: true,
