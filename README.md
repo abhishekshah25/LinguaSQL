@@ -1,7 +1,7 @@
 ![Lingua](https://github.com/abhishekshah25/LinguaSQL/assets/147745895/ec9f2fb3-51f8-4cf2-94a5-e9ec1c5de91d)
 
 
-Using the SQL to Natural Language Translator is easy. Simply navigate to the tool's website and choose whether you want to translate from natural language to SQL or vice-versa.
+Using the SQL to Natural Language Translator is easy. Simply navigate to the tool's website and choose whether you want to translate from natural language to SQL or vice-versa!
 
 Then, type in your query and hit the "Translate" button. The tool will generate the corresponding code or text and display it on the screen. You can press the 'reverse' button to give input as Natural Language and get SQL queries in response.
 
