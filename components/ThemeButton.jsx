@@ -3,6 +3,7 @@ import { faMoon, faSun } from "@fortawesome/free-solid-svg-icons"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { useTheme } from "next-themes"
 
+# Themes
 export default function ThemeButton({ className }) {
   const [mounted, setMounted] = useState(false)
   const { systemTheme, theme, setTheme } = useTheme()
