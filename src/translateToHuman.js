@@ -20,6 +20,7 @@ const translateToHuman = async (query, apiKey) => {
     }),
   });
 
+  
   const data = await response.json();
   if (!response.ok) {
     console.log(response);
