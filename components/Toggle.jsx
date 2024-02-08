@@ -1,4 +1,5 @@
 const Toggle = ({ isUppercase, handleSwitchText: switchText }) => {
+  
   return (
     <div className="flex items-center">
       <label className="relative inline-flex items-center cursor-pointer">
