@@ -14,7 +14,7 @@ export default async function handler(req, res) {
       process.env.OPENAI_API_KEY,
       tableSchema
     )
-    // console.log(res);
+
     res.status(200).json({ outputText: result })
   } catch (error) {
     console.error(error)
