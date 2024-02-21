@@ -455,7 +455,7 @@ export default function Home() {
                           lineNumberStyle={{
                             color: isThemeDark ? "gray" : "#ccc"
                           }}
-                          customStyle={{
+                          customStyle= {{
                             minHeight: "70px",
                             maxHeight: "none",
                             height: "auto",
