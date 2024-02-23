@@ -38,6 +38,7 @@ export function useTranslate() {
     }
   }
 
+  
   return {
     outputText,
     setOutputText,
