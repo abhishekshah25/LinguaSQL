@@ -13,6 +13,3 @@ Once the development server is running, you can access the application by naviga
 Features include Dark mode, Lowercase/uppercase toggle, Copy to clipboard, SQL syntax highlighting among others.
 
 Note:- OpenAI API Key is a paid subscription!
-
-
-
