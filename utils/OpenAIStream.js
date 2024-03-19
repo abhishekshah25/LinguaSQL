@@ -15,7 +15,7 @@ const ChatGPTAgent = "user" || "system";
 
 const ChatGPTMessage = {
   role: ChatGPTAgent,
-  content: "",
+  content: ""
 };
 
 const OpenAIStreamPayload = {
