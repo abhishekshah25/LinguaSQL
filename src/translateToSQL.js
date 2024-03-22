@@ -19,7 +19,7 @@ const translateToSQL = async (query, apiKey, tableSchema = "") => {
       model: "text-davinci-003",
       frequency_penalty: 0.5,
       presence_penalty: 0.5,
-      logprobs: 10,
+      logprobs: 10
     }),
   });
 
